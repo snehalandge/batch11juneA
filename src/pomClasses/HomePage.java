@@ -104,6 +104,7 @@ public void switchToPage(int a) {
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[@class='ge-49M _2Kfbh8' and text()='"+a+"']")));
 		
      }
+
    public void hoverOnProfilePage()
 {
 	
