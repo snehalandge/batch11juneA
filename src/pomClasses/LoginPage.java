@@ -26,6 +26,7 @@ public class LoginPage {
 		emailID.sendKeys("varsha_labade@yahoo.com");
 		
 	}
+	
 	public void enterPassword()
 	{
 		password.sendKeys("varsha@123");
